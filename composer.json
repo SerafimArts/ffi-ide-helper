@@ -1,0 +1,12 @@
+{
+    "name": "serafim/ffi-ide-helper",
+    "type": "metapackage",
+    "license": "MIT",
+    "description": "PHP FFI Helper for IDEA-based IDEs",
+    "bin": "bin/ffi-generator.php",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
