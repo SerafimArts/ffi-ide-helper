@@ -1,4 +1,6 @@
-# FFI Ide Helper
+> !!! This package is deprecated, please use https://github.com/php-ffi/ide-helper-generator instead
+
+# FFI IDE Helper
 
 This package provides an extended autocomplete for PHP FFI in a PhpStorm IDE.
 
